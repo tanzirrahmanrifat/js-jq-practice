@@ -1,0 +1,46 @@
+section {
+  overflow: hidden;
+}
+
+/* particales  */
+
+#particles-js {
+  padding: 100px 0;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  background-image: url('');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+/* slick slider  */
+.slick-wrapper {
+  margin: 0 auto;
+  width: 50%;
+
+}
+
+
+/* swipper slider  */
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+.swiper img{
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-pagination-vertical.swiper-pagination-bullets, .swiper-vertical > .swiper-pagination-bullets {
+  right: 0px !important;
+}
+
+/* charts canvas  */
+#chartContainer{
+  height: 300px;
+  width: 100%;
+}
